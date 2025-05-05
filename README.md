@@ -31,4 +31,8 @@ El objetivo principal de este EDA es:
 ## Ejecución
 Para reproducir los resultados, abre y ejecuta la libreta de principio a fin en orden secuencial. (Se necesita una api key, para correr los llms) 
 
+## Link de Datos: (TEC) 
+https://drive.google.com/drive/folders/15Zcz6-t0Ccq1mL-yx2e8B65GlkEskAo2?usp=share_link 
+
+
 ---
