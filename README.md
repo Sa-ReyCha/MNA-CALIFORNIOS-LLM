@@ -1,7 +1,7 @@
 # MNA-CALIFORNIOS-LLM
 Repositorio para el proyecto de MNA Los Californios
 
-# Avance1.Californios - Feature Engineering
+# Avance2.Californios - Feature Engineering
 
 Este repositorio contiene el primer entregable del proyecto integrador de la Maestría en Inteligencia Artificial Aplicada del Tecnológico de Monterrey. El análisis se enfoca en los datos narrativos del proyecto “Los Californios”, una obra literaria y televisiva de Carlos Peralta Dávila, con el objetivo de optimizar guiones mediante modelos de lenguaje generativos.
 
